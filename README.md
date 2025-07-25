@@ -50,10 +50,10 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>linux_64_python3.8.____cpython</td>
+              <td>linux_64_python3.13.____cp313</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15544&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/enterprise_outliers-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/enterprise_outliers-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_python3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
@@ -85,10 +85,10 @@ Current build status
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_python3.8.____cpython</td>
+              <td>osx_64_python3.13.____cp313</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15544&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/enterprise_outliers-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.8.____cpython" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/enterprise_outliers-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.13.____cp313" alt="variant">
                 </a>
               </td>
             </tr><tr>
@@ -111,7 +111,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-enterprise_outliers-green.svg)](https://anaconda.org/conda-forge/enterprise_outliers) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/enterprise_outliers.svg)](https://anaconda.org/conda-forge/enterprise_outliers) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/enterprise_outliers.svg)](https://anaconda.org/conda-forge/enterprise_outliers) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/enterprise_outliers.svg)](https://anaconda.org/conda-forge/enterprise_outliers) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-enterprise__outliers-green.svg)](https://anaconda.org/conda-forge/enterprise_outliers) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/enterprise_outliers.svg)](https://anaconda.org/conda-forge/enterprise_outliers) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/enterprise_outliers.svg)](https://anaconda.org/conda-forge/enterprise_outliers) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/enterprise_outliers.svg)](https://anaconda.org/conda-forge/enterprise_outliers) |
 
 Installing enterprise_outliers
 ==============================
